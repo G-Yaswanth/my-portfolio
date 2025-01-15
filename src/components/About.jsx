@@ -11,7 +11,7 @@ const About = () => {
             <br />
             <p className='text-xl'>I am currently working as a Technical Consultant at Infor Private Limited in Hyderabad. I work on the product M3, which helps the customers to run their day to day business smoothly with the help of our advaneced ERP system which also helps in generating insightful reports.</p>
             <p className='text-xl'>My key skills at my work includes H5 Scripting, MEC mapping, and H5 SDK.</p>
-            <p className='text-xl'> I have been working at Infor since July 2023.</p>
+            <p className='text-xl'>I have been working at Infor since July 2023.</p>
         </div>
     </div>
   )
