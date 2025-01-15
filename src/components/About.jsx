@@ -7,10 +7,11 @@ const About = () => {
             <div className='pb-8'>
                 <h2 className='text-4xl font-bold inline border-b-4 border-gray-500'>About</h2>
             </div>
-            <h3 className='text-xl mt-10'>An enthuiast with a dream to achieve big by integrating IT with real world problems.</h3>
+            <h3>An enthuiast with a dream to achieve big by integrating IT with real world problems.</h3>
             <br />
             <p className='text-xl'>I am currently working as a Technical Consultant at Infor Private Limited in Hyderabad. I work on the product M3, which helps the customers to run their day to day business smoothly with the help of our advaneced ERP system which also helps in generating insightful reports.</p>
-            <p className='text-xl'>My key skills at my work includes H5 Scripting, MEC mapping, and H5 SDK. <br> I have been working at Infor since July 2023.</p>
+            <p className='text-xl'>My key skills at my work includes H5 Scripting, MEC mapping, and H5 SDK.</p>
+            <p className='text-xl'> I have been working at Infor since July 2023.</p>
         </div>
     </div>
   )
